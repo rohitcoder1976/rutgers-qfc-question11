@@ -1,0 +1,1 @@
+This is the code I developed (thanks, Opus 5.5) to answer Rutgers QFC's Question 11 in its 2026 Fall Research Appliaction. 

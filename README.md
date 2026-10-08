@@ -1,1 +1,1 @@
-This is the code I developed (thanks, Opus 5.5) to answer Rutgers QFC's Question 11 in its 2026 Fall Research Appliaction. 
+I worked out the math for the strategy for question 11 (Rutgers QFC Research Application for Fall 2026), and gave the PDF to claude to implement the optimization algorithm. Thanks, claude.
